@@ -1,0 +1,10 @@
+{
+    "paths": {
+        "common": "/SuiteScripts/IVE Scripts/Modules/common",
+        "papaparse": "/SuiteScripts/IVE Scripts/Modules/libs/papaparse/papaparse_v5.0.2.min",
+        "numeral": "/SuiteScripts/IVE Scripts/Modules/libs/numeral/numeral_v2.0.6.min.js",
+        "lodash": "/SuiteScripts/IVE Scripts/Modules/libs/lodash/lodash_v4.17.21.min.js",
+        "moment-tz": "/SuiteScripts/IVE Scripts/Modules/libs/moment/moment-timezone-with-data_v0.5.43-2023c.min.js",
+        "moment": "/SuiteScripts/IVE Scripts/Modules/libs/moment/moment_v2.29.4.min.js"
+    }
+}
